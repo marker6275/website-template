@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8a835a0.css",
-    "main.js": "/static/js/main.5690f78e.js",
-    "static/media/stockphoto.jpg": "/static/media/stockphoto.91c537c276c4ee4ec255.jpg",
-    "index.html": "/index.html",
-    "main.e8a835a0.css.map": "/static/css/main.e8a835a0.css.map",
-    "main.5690f78e.js.map": "/static/js/main.5690f78e.js.map"
+    "main.css": "/marker6275.github.io/website-template/static/css/main.e8a835a0.css",
+    "main.js": "/marker6275.github.io/website-template/static/js/main.7a12b1bd.js",
+    "static/media/stockphoto.jpg": "/marker6275.github.io/website-template/static/media/stockphoto.91c537c276c4ee4ec255.jpg",
+    "index.html": "/marker6275.github.io/website-template/index.html",
+    "main.e8a835a0.css.map": "/marker6275.github.io/website-template/static/css/main.e8a835a0.css.map",
+    "main.7a12b1bd.js.map": "/marker6275.github.io/website-template/static/js/main.7a12b1bd.js.map"
   },
   "entrypoints": [
     "static/css/main.e8a835a0.css",
-    "static/js/main.5690f78e.js"
+    "static/js/main.7a12b1bd.js"
   ]
 }
